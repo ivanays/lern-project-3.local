@@ -1,0 +1,64 @@
+// Шаблоны
+%text-body {
+  @include text($ff-Rbt, $fw-400, $fz-14, $lh-51, $ls-60, $c-2-615f62);
+}
+%text-menu-services {
+  @include text($ff-Rbt, $fw-400, $fz-15, $lh-51, $ls-60, $c-2-615f62);
+}
+%text-header-phone {
+  @include text-lite($ff-Rbt, $fw-700, $fz-16, $c-2-615f62);
+}
+%text-shoping-summa {
+  @include text-lite($ff-Rbt, $fw-700, $fz-14, $c-2-615f62);
+}
+%text-categories-menu {
+  @include text-lite($ff-Rbt, $fw-700, $fz-15, $c-2-615f62);
+}
+%text-categories-placeholder {
+  @include text($ff-Rbt, $fw-400, $fz-14, $lh-25, $ls-100, $c-2-615f62);
+}
+%text-categories-input-text {
+  @include text($ff-Rbt, $fw-700, $fz-14, $lh-25, $ls-100, $c-2-615f62);
+}
+%text-slider-czh-title {
+  @include text($ff-Rbt, $fw-700, $fz-50, $lh-61, $ls-60, $c-2-615f62);
+}
+// %text-slider-czh-title-tablet {
+//   @include text($ff-Rbt, $fw-700, $fz-35, $lh-45, $ls-60, $c-2-615f62);
+// }
+%text-slider-czh-text {
+  @include text($ff-Rbt, $fw-400, $fz-15, $lh-21, $ls-60, $c-2-615f62);
+}
+%text-slider-czh-link {
+  @include text($ff-Rbt, $fw-700, $fz-16, $lh-51, $ls-60, $c-5-fff);
+}
+%text-hot-offers-title {
+  @include text($ff-Rbt, $fw-700, $fz-30, $lh-51, $ls-60, $c-2-615f62);
+}
+%text-card-slide-name {
+  @include text($ff-Rbt, $fw-700, $fz-14, $lh-15, $ls-60, $c-2-615f62);
+}
+%text-card-slide-mark {
+  @include text($ff-Rbt, $fw-700, $fz-14, $lh-15, $ls-60, $c-16-aaa8aa);
+}
+%text-card-slide-price {
+  @include text($ff-Rbt, $fw-700, $fz-20, $lh-21, $ls-60, $c-2-615f62);
+}
+%text-card-slide-link-more {
+  @include text($ff-Rbt, $fw-700, $fz-14, $lh-30, $ls-60, $c-1-9b7b62);
+}
+%text-card-slide-link-buy {
+  @include text($ff-Rbt, $fw-700, $fz-14, $lh-30, $ls-60, $c-5-fff);
+}
+%text-direct-ho-num {
+  @include text($ff-Rbt, $fw-400, $fz-13, $lh-15, $ls-40, $c-16-aaa8aa);
+}
+// %text-footer-title {
+//   @include text($ff-Rbt, $fw-700, $fz-14, $lh-0, $ls-0, $c-11-707070);
+// }
+// %text-footer-link {
+//   @include text($ff-Rbt, $fw-400, $fz-12, $lh-18, $ls-0, $c-12-9a9a9a);
+// }
+// %text-footer-copy {
+//   @include text($ff-Rbt, $fw-400, $fz-12, $lh-0, $ls-0, $c-11-707070);
+// }
