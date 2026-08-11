@@ -9,7 +9,7 @@ Lern-project-3. Лэндинг магазина текстиля.
 Быстрый запуск
 
 1. Загрузите и установите локальный сервер OSPanel для ос Windows (https://ospanel.io/download/). 
-2. Содержимое репозитория lern-project-2.local (https://github.com/ivanays/lern-project-3.local) скопируйте в корневую папку lern-project-3.local локального хостинга OSPanel.
+2. Содержимое репозитория lern-project-3.local (https://github.com/ivanays/lern-project-3.local) скопируйте в корневую папку lern-project-3.local локального хостинга OSPanel.
 3. Запустите локальный сервер от имени администратора. Выберите "lern-project-3.local" во вкладе "Мои проекты" админ-панели сервера OSPanel.
 
 
